@@ -17,7 +17,10 @@
         {
           "name":"coin",
           "damage":100
-        }
+        },
+        {
+          "name": "bazooka",
+          "damage":1000000000
       ],
       "monstersInRoom":[
         "Cookie Monster"
